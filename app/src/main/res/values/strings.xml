@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">BookStore</string>
+
+    <string name="create_your_account"><u>No account ? Create One !</u></string>
+    <string name="mustNotBeEmpty">Must not be empty !</string>
+    <string name="checkYourEmail">Check your email !</string>
+
+
+    <string name="BuyBook">Buy  %1$s</string>
+
+    <string name="BuyBookMsg">Are you sure to buy this book ?</string>
+
+    <string name="DeleteBook">Delete History from %1$s</string>
+
+    <string name="DeleteBookMsg">Are you sure to Delete this book ?</string>
+
+    <string name="book1_title">Programming Android with Kotlin</string>
+    <string name="book2_title">Kotlin Programming</string>
+    <string name="book3_title">Java to Kotlin</string>
+    <string name="book4_title">Reactive Programming with Kotlin</string>
+    <string name="book5_title">Dagger by Tutorials</string>
+    <string name="book6_title">Kotlin and Android Development featuring Jetpack</string>
+    <string name="book7_title">Real-World Android by Tutorials</string>
+    <string name="book8_title">Android Studio 4.2 Development Essentials</string>
+    <string name="book9_title">Learn to Program with Kotlin</string>
+    <string name="book10_title">Kotlin Golang Rust</string>
+
+    <string name="book1_author">Pierre-Olivier Laurence</string>
+    <string name="book2_author">David Greenhalgh</string>
+    <string name="book3_author">Duncan McGregor</string>
+    <string name="book4_author">Ray Wenderlich</string>
+    <string name="book5_author">Ray Wenderlich</string>
+    <string name="book6_author">Michael Fazio</string>
+    <string name="book7_author">Ray Wenderlich</string>
+    <string name="book8_author">Neil Smyth</string>
+    <string name="book9_author">Tim Lavers</string>
+    <string name="book10_author">Mourahi Studio</string>
+
+    <string name="book1_price">85 DT</string>
+    <string name="book2_price">30 DT</string>
+    <string name="book3_price">25 DT</string>
+    <string name="book4_price">50 DT</string>
+    <string name="book5_price">45 DT</string>
+    <string name="book6_price">70 DT</string>
+    <string name="book7_price">60 DT</string>
+    <string name="book8_price">40 DT</string>
+    <string name="book9_price">80 DT</string>
+    <string name="book10_price">55 DT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
